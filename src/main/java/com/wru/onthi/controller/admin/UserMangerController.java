@@ -1,6 +1,5 @@
 package com.wru.onthi.controller.admin;
 
-import com.sun.java.swing.plaf.windows.WindowsTextAreaUI;
 import com.wru.onthi.entity.News;
 import com.wru.onthi.entity.Role;
 import com.wru.onthi.entity.User;
